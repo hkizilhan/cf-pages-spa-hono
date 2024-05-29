@@ -16,6 +16,7 @@ This template provides a minimal full-stack setup to get React working with Hono
 - Configure the build settings to use the `npm run build` command
 - Configure the build settings to use the `dist` directory as the output directory
 - Deploy the project to Cloudflare Pages
+- After setup, you can generate wrangler.toml as single source of config with `wrangler pages download config projectName`
 
 ## Backend
 
